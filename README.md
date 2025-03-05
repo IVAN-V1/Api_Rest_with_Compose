@@ -8,7 +8,7 @@
 
 # Libreries
  > [!Tip]
-> # Api Rest with retrofit,picasso and Coroutines
+> # APP with retrofit,picasso and Coroutines
 
 
 
