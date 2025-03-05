@@ -1,5 +1,16 @@
 # APP with API Rest
-# Using lazyRow
+
+
+# API
+ > [!Tip]
+> # Link API https://dog.ceo/dog-api/breeds-list
+
+
+# Libreries
+ > [!Tip]
+> # Api Rest with retrofit,picasso and Coroutines
+
+
 
 # Captures
 
@@ -7,5 +18,4 @@
 | -------- | -------- |
 | ![Ejemplo de imagen](./screens/screen_1.png) | ![Ejemplo de imagen](./screens/Screen_2.png) |
 
-
-![Ejemplo de imagen](./screens/Screen_3.png) |
+ ![Ejemplo de imagen](./screens/img.png) |
